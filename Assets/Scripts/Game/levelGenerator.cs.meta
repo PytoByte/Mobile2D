@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4286c2bb1dfb15447b499a3640757671
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - box: {fileID: 2456477146011735157, guid: fe6d22dd86987bc41b947144ac5c0fc5, type: 3}
+  - gap: {fileID: 2464748596209660960, guid: 1cecbefff92e28a49b860684520f3066, type: 3}
+  - mainHouse: {fileID: 5117041895582492293, guid: 7fc5112d5c4d5234e92d0dd162abcb40,
+      type: 3}
+  - forest: {fileID: 4898476710020073505, guid: 4e1e748e5b4d2934e8a710ab9d696e05,
+      type: 3}
+  - animals: {fileID: 7971576542698700599, guid: 2311935cf59c6b94d8861085e01d4ad8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

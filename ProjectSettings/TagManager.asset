@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - box
+  - selected
+  - character
+  - gap
+  - unitToBuy
+  - UI_events
+  - zone
+  - my_events
+  - buy_me
+  - MainHouse
+  - Destroyed
+  - NextTurnButton
+  - UnitButton
+  - ColonistButton
+  - colonistToBuy
+  - colonist_by_me
+  - BuildingButton
+  - buildingToBuy
+  - building_by_me
+  - colonist_buy_me
+  - building_buy_me
+  - building
+  - food
+  - wood
+  - animation helper
+  - PauseButton
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
